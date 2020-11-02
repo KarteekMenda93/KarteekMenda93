@@ -8,6 +8,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 - 👯 I’m looking to collaborate on Medium
 - 💬 Ask me about Machine learning, Deep Learning and NLP tasks.
 - 📫 How to reach me: Medium @karteekmenda
-[Medium](https://medium.com/@karteekmenda)
+[Medium](https://medium.com/@karteekmenda)    Twitter @Karteekmenda223
+[Twitter ](https://twitter.com/Karteekmenda223)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours sleeping 😄😄😄
