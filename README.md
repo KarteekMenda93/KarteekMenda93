@@ -16,3 +16,10 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 ![My github stats](https://github-readme-stats.vercel.app/api?username=KarteekMenda93&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
+
+<a href="https://github.com/KarteekMenda93/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarteekMenda93&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/KarteekMenda93/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarteekMenda93&repo=convoychat" />
+</a>
