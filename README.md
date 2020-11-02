@@ -12,3 +12,5 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 [Twitter ](https://twitter.com/Karteekmenda223)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours sleeping 😄😄😄
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=KarteekMenda93)
