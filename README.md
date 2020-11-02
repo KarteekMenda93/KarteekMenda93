@@ -1,4 +1,4 @@
-### Hi Folk 👋
+### Hi Folk, I am Karteek Menda 👋
 
 
 I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger.
