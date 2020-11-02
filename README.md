@@ -1,4 +1,4 @@
-### Hi, I am Karteek Menda. 👋 Thanks for visiting my Profile. 🙏 
+### Hi mate, I am Karteek Menda. 👋 Thanks for visiting my Repo. 🙏 
 
 
 I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger.
