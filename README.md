@@ -15,4 +15,4 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=KarteekMenda93&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93](https://github.com/KarteekMenda93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
