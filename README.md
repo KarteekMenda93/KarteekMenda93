@@ -11,7 +11,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 [Medium](https://medium.com/@karteekmenda) ,   Twitter-@Karteekmenda223
 [Twitter ](https://twitter.com/Karteekmenda223)
 - 😄 Pronouns: karti
-- ⚡ Fun fact: I spend almost 12 hours sleeping 😄😄😄
+- ⚡ Fun fact: I spend almost 12 hours thinking on something else. 😄😄😄
 - 🎮 Interested in playing games.
 - ❤️ I am a Foodie.
 
