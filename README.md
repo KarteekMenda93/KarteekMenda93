@@ -4,9 +4,9 @@
 I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger.
 
 - 🔭 I’m currently working on Transformer Models, 🤗 and State of Art Algorithms.
-- 🌱 I’m currently learning more about Time Series Prediction using Facebook Prophet.
+- 🌱 I’m completely learning more about State of Art algorithms developed by Google.
 - 👯 I’m looking to collaborate on Medium, Twitter.
-- 💬 Ask me about Machine learning, Deep Learning and NLP tasks.
+- 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks.
 - 📫 How to reach me: Medium-@karteekmenda
 [Medium](https://medium.com/@karteekmenda) ,   Twitter-@Karteekmenda223
 [Twitter ](https://twitter.com/Karteekmenda223)
