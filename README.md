@@ -4,7 +4,7 @@
 I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger.
 
 - 🔭 I’m currently working on Transformer Models, 🤗 and State of Art Algorithms.
-- 🌱 I’m completely learning more about State of Art algorithms developed by Google.
+- 🌱 I’m completely looking more about State of Art algorithms developed by Google.
 - 👯 I’m looking to collaborate on Medium, Twitter.
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks.
 - 📫 How to reach me: Medium-@karteekmenda
