@@ -9,7 +9,10 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks.
 - 📫 How to reach me: Medium-@karteekmenda
 [Medium](https://medium.com/@karteekmenda) ,   Twitter-@Karteekmenda223
-[Twitter ](https://twitter.com/Karteekmenda223)
+[Twitter ](https://twitter.com/Karteekmenda223), 
+Linkedin-@karteekmenda
+[Linkedin](http://www.linkedin.com/in/karteek-menda)
+
 - 😄 Pronouns: karti
 - ⚡ Fun fact: I spend almost 12 hours thinking on something else. 😄😄😄
 - 🎮 Interested in playing games.
