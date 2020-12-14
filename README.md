@@ -8,9 +8,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 - 👯 I’m looking to collaborate on Medium, Twitter.
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks.
 - 📫 How to reach me: 
-[Medium](https://medium.com/@karteekmenda) ,  
-[Twitter ](https://twitter.com/Karteekmenda223), 
-[Linkedin](http://www.linkedin.com/in/karteek-menda)
+    [Medium](https://medium.com/@karteekmenda) ,  [Twitter ](https://twitter.com/Karteekmenda223),  [Linkedin](http://www.linkedin.com/in/karteek-menda)
 
 - 😄 Pronouns: karti
 - ⚡ Fun fact: I spend almost 12 hours thinking on something else. 😄😄😄
