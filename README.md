@@ -13,6 +13,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 - 😄 Pronouns: karti
 - ⚡ Fun fact: I spend almost 12 hours thinking on something else. 😄😄😄
 - 🎮 Interested in playing games.
+- 🏎️ A Real Lover of LAMBORGHINI
 - ❤️ I am a Foodie.
 
 
