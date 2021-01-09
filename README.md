@@ -3,7 +3,7 @@
 
 I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger.
 
-- 🔭 I’m currently working on Transformer Models, 🤗(State of Art Algorithms), one product and many other projects.
+- 🔭 I’m currently working on Transformer Models, 🤗(State of Art Algorithms).
 - 🌱 I’m completely looking more about State of Art algorithms developed by Google.
 - 👯 I’m looking to collaborate on Medium, Linkedin.
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks.
@@ -11,9 +11,8 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
     [Medium](https://medium.com/@karteekmenda) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 
 - 😄 Pronouns: karti
-- ⚡ Fun fact: I spend almost 12 hours thinking on something else. 😄😄😄
 - 🎮 Interested in playing games.
-- 🏎️ A Real Lover of LAMBORGHINI
+- 🏎️ A Real Lover of LAMBORGHINI Cars.
 - ❤️ I am a Foodie.
 
 
