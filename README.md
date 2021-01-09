@@ -11,7 +11,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
     [Medium](https://medium.com/@karteekmenda) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 
 - 😄 Pronouns: karti
-- 🎮 Interested in playing games.
+- 🎮 Interested in playing video games.
 - 🏎️ A Real Lover of LAMBORGHINI Cars.
 - ❤️ I am a Foodie.
 
