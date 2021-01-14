@@ -1,19 +1,19 @@
 ### Hi mate,🎈 I am Karteek Menda. 👋 Thanks for visiting my Repo. 🙏 
 
 
-I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger.
+I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger
 
-- 🔭 I’m currently working on Transformer Models, 🤗(State of Art Algorithms).
-- 🌱 I’m completely looking more about State of Art algorithms developed by Google.
-- 👯 I’m looking to collaborate on Medium, Linkedin.
-- 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks.
+- 🔭 I’m currently working on Transformer Models, 🤗(State of Art Algorithms)
+- 🌱 I’m completely looking more about State of Art algorithms developed by Google
+- 👯 I’m looking to collaborate on Medium, Linkedin
+- 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 
 - 😄 Pronouns: karti
-- 🎮 Interested in playing video games.
-- 🏎️ A Real Lover of LAMBORGHINI Cars.
-- ❤️ I am a Foodie.
+- 🎮 Interested in playing video games
+- 🏎️ A Real Lover of LAMBORGHINI
+- ❤️ I am a Foodie
 
 
 
