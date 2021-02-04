@@ -5,6 +5,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 
 - 🔭 I’m currently working on Transformer Models, 🤗(State of Art Algorithms)
 - 🌱 I’m completely looking more about State of Art algorithms developed by Google
+- 💳 Interested in projects and collaborations related to banking and financial markets 🏦
 - 👯 I’m looking to collaborate on Medium, Linkedin
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
