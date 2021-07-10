@@ -9,7 +9,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 - 👯 I’m looking to collaborate on Medium, Linkedin
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
-    [Medium](https://medium.com/@karteekmenda) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
+    [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 - 📝 you can also have a look at my [BLOG](https://sites.google.com/view/karteekmenda-portfolio)
 - 😄 Pronouns: karti
 - 🎮 Interested in playing video games
