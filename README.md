@@ -4,6 +4,8 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 
 - 🔭 Worked on various projects including Credit Risk Score Modelling, Frequency and Severity modelling, Loss Cost Modelling and Question generation using NLP
 - 🔭 Worked on transformer models 🤗 and State Of The Art algorithms(Question and Answering using BERT) for an Insurance client
+- 🔭 Worked on Text Analytics Project where I compared the address across two databases(approximately 14.7 Billion Computations) and found out the matching address.
+- 🔭 Currently working on enhancing the performance of an Insurance claim modelling.
 - 🌱 I’m completely looking more about State of Art algorithms developed by Google
 - 💳 Interested in projects and collaborations related to banking and financial markets 🏦
 - 👯 I’m looking to collaborate on Medium, Linkedin
