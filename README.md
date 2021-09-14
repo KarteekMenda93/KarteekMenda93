@@ -5,7 +5,7 @@ I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machi
 - 🔭 Worked on various projects including Credit Risk Score Modelling, Frequency and Severity modelling, Loss Cost Modelling and Question generation using NLP
 - 🔭 Worked on transformer models 🤗 and State Of The Art algorithms(Question and Answering using BERT) for an Insurance client
 - 🔭 Worked on Text Analytics Project where I compared the address across two databases(approximately 14.7 Billion Computations) and found out the matching address.
-- 🔭 Currently working on FRAUD DETECTION using Graph Data Science
+- 🔭 Currently working in Suspicious Fraud Detection using Graph Data Science there by enabling to uncover more fraud and shut it down quickly. Accurate identification of fraudulent patterns focuses on time and energy on real fraud, significantly reducing effort on false positives.
 - 🌱 I’m completely looking more about State of Art algorithms developed by Google
 - 💳 Interested in projects and collaborations related to banking and financial markets 🏦
 - 👯 I’m looking to collaborate on Medium, Linkedin
