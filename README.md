@@ -1,6 +1,6 @@
 ### Hi mate,🎈 I am Karteek Menda. 👋 Thanks for visiting my Repo. 
 
-I am a Data Science Professional, Artificial Intelligence Enthusiast and a Machine Learning Blogger
+I am a Deputy Manager-Analytics, Artificial Intelligence Enthusiast and a Machine Learning Blogger
 
 - 🔭 Worked on various projects including Credit Risk Score Modelling, Frequency and Severity modelling, Loss Cost Modelling and Question generation using NLP
 - 🔭 Worked on transformer models 🤗 and State Of The Art algorithms(Question and Answering using BERT) for an Insurance client
