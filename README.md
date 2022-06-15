@@ -2,10 +2,12 @@
 
 I am a Deputy Manager-Analytics, Artificial Intelligence Enthusiast and a Machine Learning Blogger
 
+- 🔭 Worked in delivering a new technical premium tool to the business for Public D&O and Financial Institution Policies.
+- 🔭 Worked in Improving the renters MVA model in terms of data sourcing efficiency, regulatory acceptance and recency.
 - 🔭 Worked on various projects including Credit Risk Score Modelling, Frequency and Severity modelling, Loss Cost Modelling and Question generation using NLP
 - 🔭 Worked on transformer models 🤗 and State Of The Art algorithms(Question and Answering using BERT) for an Insurance client
 - 🔭 Worked on Text Analytics Project where I compared the address across two databases(approximately 14.7 Billion Computations) and found out the matching address.
-- 🔭 Worked in detecting suspicious Fraud Detection using Graph Data Science there by enabling to uncover more fraud and shut it down quickly. Accurate identification of fraudulent patterns focuses on time and energy on real fraud, significantly reducing effort on false positives.
+- 🔭 Worked in detecting suspicious Fraud using Graph Data Science there by enabling to uncover more fraud and shut it down quickly. Accurate identification of fraudulent patterns focuses on time and energy on real fraud, significantly reducing effort on false positives.
 - 🔭 Currently working on finding leading indicators Workers Compensation frequency and severity trends
 - 🌱 I’m completely looking more about State of Art algorithms developed by Google
 - 💳 Interested in projects and collaborations related to banking and financial markets 🏦
