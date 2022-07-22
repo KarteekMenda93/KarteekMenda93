@@ -1,6 +1,6 @@
 ### Hi mate,🎈 I am Karteek Menda. 👋 Thanks for visiting my Repo. 
 
-I am a Deputy Manager-Analytics, Artificial Intelligence Enthusiast and a Machine Learning Blogger
+I am a Deputy Manager-Analytics, Mentor, Robotics and Artificial Intelligence Enthusiast and a Machine Learning Blogger
 
 - 🔭 Worked in delivering a new technical premium tool to the business for Public D&O and Financial Institution Policies.
 - 🔭 Worked in Improving the renters MVA model in terms of data sourcing efficiency, regulatory acceptance and recency.
