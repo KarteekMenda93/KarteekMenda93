@@ -1,4 +1,4 @@
-### Hi mate,🎈 I am Karteek Menda. 👋 Thanks for visiting my Repo. 
+### Hi mate,🎈 I am Karteek Menda. 
 
 I am a Deputy Manager-Analytics, Chief Mentor, Robotics and Artificial Intelligence Enthusiast and a Machine Learning Blogger. Data Science Professional with proven experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. Possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies. Capable of creating, developing, testing and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
 
@@ -71,3 +71,5 @@ I am a Deputy Manager-Analytics, Chief Mentor, Robotics and Artificial Intellige
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
+👋 Thanks for visiting my Repo. 
