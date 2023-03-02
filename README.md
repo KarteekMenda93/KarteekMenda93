@@ -2,7 +2,6 @@
 
 I am a Deputy Manager-Analytics, Chief Mentor, Robotics and Artificial Intelligence Enthusiast and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
-- 📝 <a href="https://www.teacheron.com/tutor-profile/6O6s?r=6O6s" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 336px !important; height: 144px !important"></a>
 - 🌱 I’m completely looking more about State of Art algorithms developed by Google
 - 💳 Interested in projects and collaborations related to banking and financial markets 🏦
 - 👯 I’m looking to collaborate on Medium, Linkedin
@@ -16,7 +15,7 @@ I am a Deputy Manager-Analytics, Chief Mentor, Robotics and Artificial Intellige
 - ❤️ I am a Foodie
 
 
-
+<a href="https://www.teacheron.com/tutor-profile/6O6s?r=6O6s" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 336px !important; height: 144px !important"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
 
 ### Programming Languages Known
