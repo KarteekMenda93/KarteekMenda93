@@ -8,7 +8,7 @@ I am a Deputy Manager-Analytics, Chief Mentor, Robotics and Artificial Intellige
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
-- 📫 You can go through some of my slides on Transformers (BERT, Longformers) [Streamlit](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Streamlit](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
+- 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 - 📝 you can also have a look at my [BLOG](https://sites.google.com/view/karteekmenda-portfolio)
 - 📝 I can be your mentor [TeacherOn](https://www.teacheron.com/tutor-profile/6O6s?r=6O6s)
 - 😄 Pronouns: karti
