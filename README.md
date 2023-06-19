@@ -2,15 +2,14 @@
 
 I am a Deputy Manager-Analytics, Robotics and Artificial Intelligence Enthusiast and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
-- 🌱 I’m completely looking more about State of Art algorithms developed by Google
-- 💳 Interested in projects and collaborations related to banking and financial markets 🏦
+- 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers in India.
+- 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
 - 👯 I’m looking to collaborate on Medium, Linkedin
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 - 📝 you can also have a look at my [BLOG](https://sites.google.com/view/karteekmenda-portfolio)
-- 📝 I can be your mentor [TeacherOn](https://www.teacheron.com/tutor-profile/6O6s?r=6O6s)
 - 😄 Pronouns: karti
 - 🎮 Interested in playing video games
 - 🏎️ A Real Lover of LAMBORGHINI
