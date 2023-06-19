@@ -16,7 +16,7 @@ I am a Deputy Manager-Analytics, Robotics and Artificial Intelligence Enthusiast
 - ❤️ I am a Foodie
 
 
-<a href="https://www.teacheron.com/tutor-profile/6O6s?r=6O6s" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 336px !important; height: 144px !important"></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
 
 ### Programming Languages Known
