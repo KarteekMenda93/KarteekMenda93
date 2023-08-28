@@ -9,7 +9,7 @@ I am an Ex - Machine Learning Engineer, Robotics and Artificial Intelligence Ent
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
-- 📝 you can also have a look at my [BLOG](https://sites.google.com/view/karteekmenda-portfolio)
+- 📝 you can also have a look at my [BLOG](https://karteekmenda93.github.io/portfolio/)
 - 😄 Pronouns: karti
 - 🎮 Interested in playing video games
 - 🏎️ A Real Lover of LAMBORGHINI
