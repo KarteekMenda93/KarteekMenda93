@@ -30,7 +30,7 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
+
 
 ### Programming Languages Known
 
@@ -85,5 +85,8 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
+
 
 👋 Thanks for visiting my Repo. 
