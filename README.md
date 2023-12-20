@@ -16,7 +16,7 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 - 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB(Royal Challengers Bangalore) fan
 
 
-### Blogs posts
+### Blog posts
 [Principal Component Analysis](https://medium.com/@karteekmenda93/principal-component-analysis-fcb45cc48f9a)
 
 [How does Google Maps predict the ETA with high precision?](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
