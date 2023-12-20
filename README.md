@@ -4,7 +4,7 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 
 - 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers in India.
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
-- 👯 I’m looking to collaborate on Medium, Linkedin
+- 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, User Interface Development
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda) , [Twitter](https://twitter.com/KarteekMenda93) 
