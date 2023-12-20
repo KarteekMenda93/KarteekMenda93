@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Karteek Menda</h1>
 
-I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Control Lab at ASU, Ex - Machine Learning Engineer, and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
+I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Control Lab at ASU, Ex - Machine Learning Engineer, and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables
 
-- 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers in India.
-- 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
+- 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers in India
+- 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems
 - 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, User Interface Development
-- 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
+- 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Front End Development, and Hosting
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda) , [Twitter](https://twitter.com/KarteekMenda93) 
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 - 📝 you can also have a look at my [BLOG](https://karteekmenda93.github.io/portfolio/)
-- 😄 Pronouns: karti
+- 😄 Pronouns: He/Him
 - 🎮 Interested in playing video games
 - 🏎️ A Real Lover of LAMBORGHINI
 - 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB(Royal Challengers Bangalore) fan
