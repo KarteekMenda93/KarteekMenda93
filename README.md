@@ -13,7 +13,7 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 - 😄 Pronouns: karti
 - 🎮 Interested in playing video games
 - 🏎️ A Real Lover of LAMBORGHINI
-- ❤️ I am a Foodie
+- 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB(Royal Challengers Bangalore) fan
 
 
 ### Blogs posts
