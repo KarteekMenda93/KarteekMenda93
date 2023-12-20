@@ -17,8 +17,27 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[Principal Component Analysis](https://medium.com/@karteekmenda93/principal-component-analysis-fcb45cc48f9a)
+
+[How does Google Maps predict the ETA with high precision?](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
+
+[Part 1: Sentimental Analysis Using BERT](https://medium.com/@karteekmenda93/part-1-sentimental-analysis-using-bert-c030ca9b33b6)
+
+[OCR — Optical Character Recognition](https://medium.com/@karteekmenda93/ocr-optical-character-recognition-f4317300fa8f)
+
+[A Beginner’s Guide to NLP](https://medium.com/@karteekmenda93/a-beginners-guide-to-nlp-da13fae5e885)
+
+[Deployment of Machine Learning Application Made Easy](https://medium.com/@karteekmenda93/deployment-of-machine-learning-application-made-easy-f61ba593c318)
+
+[H2O-Automated ML](https://medium.com/@karteekmenda93/h2o-automated-ml-a88806206782)
+
+[Exploratory Data Analysis Tools](https://medium.com/@karteekmenda93/exploratory-data-analysis-tools-83ef538c879f)
+
+[Humming Bird- An Accelerator to Machine Learning Models](https://medium.com/@karteekmenda93/humming-bird-an-accelerator-to-machine-learning-models-dae1545e6941)
+
+[The confusion behind Confusion Matrix](https://medium.com/@karteekmenda93/the-confusion-behind-confusion-matrix-35bab6756137)
+
+
 
 
 
@@ -68,9 +87,5 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 <a href="https://twitter.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@KarteekMenda93" height="30" width="40" /></a>
 <a href="https://karteekmenda93.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
 </p>
-
-
-
-
 
 ## 👋 Thanks for visiting my Repo. 
