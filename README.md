@@ -7,7 +7,7 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 - 👯 I’m looking to collaborate on Medium, Linkedin
 - 💬 Ask me about Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
-    [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
+    [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda) , [Twitter](https://twitter.com/KarteekMenda93), 
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 - 📝 you can also have a look at my [BLOG](https://karteekmenda93.github.io/portfolio/)
 - 😄 Pronouns: karti
