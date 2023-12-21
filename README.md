@@ -1,4 +1,4 @@
-![logo](https://github.com/KarteekMenda93/KarteekMenda93/blob/main/banner%20(2).png)
+![logo](https://github.com/KarteekMenda93/KarteekMenda93/blob/main/banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Karteek Menda</h1>
