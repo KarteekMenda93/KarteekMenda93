@@ -18,6 +18,15 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 - 🏎️ A Real Lover of LAMBORGHINI
 - 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB(Royal Challengers Bangalore) fan
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karteek-menda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karteek-menda" height="30" width="40" /></a>
+<a href="https://medium.com/@karteekmenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karteekmenda93" height="30" width="40" /></a>
+<a href="https://github.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11484165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11484165" height="30" width="40" /></a>
+<a href="https://twitter.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@KarteekMenda93" height="30" width="40" /></a>
+<a href="https://karteekmenda93.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
+</p>
 
 ### Blog posts
 [Principal Component Analysis](https://medium.com/@karteekmenda93/principal-component-analysis-fcb45cc48f9a)
@@ -79,16 +88,5 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karteek-menda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karteek-menda" height="30" width="40" /></a>
-<a href="https://medium.com/@karteekmenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karteekmenda93" height="30" width="40" /></a>
-<a href="https://github.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11484165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11484165" height="30" width="40" /></a>
-<a href="https://twitter.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@KarteekMenda93" height="30" width="40" /></a>
-<a href="https://karteekmenda93.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
-</p>
 
 ## 👋 Thanks for visiting my Repo. 
