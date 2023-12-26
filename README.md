@@ -29,6 +29,10 @@ I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Contr
 </p>
 
 ### Blog posts
+[Tic-tac-toe with MyCobot — Part 2](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811)
+
+[Tic-tac-toe with MyCobot — Part 1](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-1-71e9ab2f1432)
+
 [Principal Component Analysis](https://medium.com/@karteekmenda93/principal-component-analysis-fcb45cc48f9a)
 
 [How does Google Maps predict the ETA with high precision?](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
