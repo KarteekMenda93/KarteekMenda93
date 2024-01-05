@@ -31,6 +31,7 @@ Proficiently orchestrating integration of advanced automotive technologies into 
 <a href="https://karteekmenda93.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
 </p>
 
+[Resume](https://drive.google.com/file/d/1Efml2Y2kq-vltB_X7uaFhSR06s8CtoK3/view?usp=drive_link)
 ### Blog posts
 [Tic-tac-toe with MyCobot — Part 2](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811)
 
