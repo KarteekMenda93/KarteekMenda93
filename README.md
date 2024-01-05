@@ -21,6 +21,9 @@ Proficiently orchestrating integration of advanced automotive technologies into 
 - 🏎️ A Real Lover of LAMBORGHINI
 - 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB(Royal Challengers Bangalore) fan
 
+[Resume](https://drive.google.com/file/d/1Efml2Y2kq-vltB_X7uaFhSR06s8CtoK3/view?usp=drive_link)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karteek-menda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karteek-menda" height="30" width="40" /></a>
@@ -31,7 +34,7 @@ Proficiently orchestrating integration of advanced automotive technologies into 
 <a href="https://karteekmenda93.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
 </p>
 
-[Resume](https://drive.google.com/file/d/1Efml2Y2kq-vltB_X7uaFhSR06s8CtoK3/view?usp=drive_link)
+
 ### Blog posts
 [Tic-tac-toe with MyCobot — Part 2](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811)
 
