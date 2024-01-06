@@ -42,6 +42,8 @@ You can find my Resume [Here](https://drive.google.com/file/d/1lMH8XdyPX7yrzLLHI
 
 [Principal Component Analysis](https://medium.com/@karteekmenda93/principal-component-analysis-fcb45cc48f9a)
 
+[Control the heater and filter the data for better performance](https://medium.com/@karteekmenda93/control-the-heater-and-filter-the-data-for-better-performance-c276b43e1b4b)
+
 [How does Google Maps predict the ETA with high precision?](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
 
 [Part 1: Sentimental Analysis Using BERT](https://medium.com/@karteekmenda93/part-1-sentimental-analysis-using-bert-c030ca9b33b6)
