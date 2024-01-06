@@ -15,7 +15,7 @@ Proficiently orchestrating integration of advanced automotive technologies into 
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda) , [Twitter](https://twitter.com/KarteekMenda93) 
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
-- 📝 you can also have a look at my [Portfolio](https://karteekmenda93.github.io/Web_Portfolio/), [Alternate Portfolio](https://karteekmenda93.github.io/portfolio/)
+- 📝 you can also have a look at my [Portfolio](https://karteekmenda93.github.io/DigitalPortfolio/)
 - 😄 Pronouns: He/Him
 - 🎮 Interested in playing video games
 - 🏎️ A Real Lover of LAMBORGHINI
