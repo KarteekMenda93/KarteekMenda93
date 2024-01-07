@@ -31,7 +31,7 @@ You can find my Resume [Here](https://drive.google.com/file/d/1lMH8XdyPX7yrzLLHI
 <a href="https://github.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11484165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11484165" height="30" width="40" /></a>
 <a href="https://twitter.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@KarteekMenda93" height="30" width="40" /></a>
-<a href="https://karteekmenda93.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
+<a href="https://karteekmenda93.github.io/DigitalPortfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
 </p>
 
 
