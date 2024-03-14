@@ -21,7 +21,7 @@ Proficiently orchestrating integration of advanced automotive technologies into 
 - 🏎️ A Real Lover of LAMBORGHINI
 - 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB(Royal Challengers Bangalore) fan
 
-/ You can find my Resume [Here](https://drive.google.com/file/d/18zUqpPVzwY_Dq8TiGCXu4-cABPNJdV3y/view)
+# You can find my Resume [Here](https://drive.google.com/file/d/18zUqpPVzwY_Dq8TiGCXu4-cABPNJdV3y/view)
 
 
 <h3 align="left">Connect with me:</h3>
