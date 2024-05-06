@@ -36,6 +36,13 @@ Proficiently orchestrating integration of advanced automotive technologies into 
 
 
 ### Blog posts
+
+[Object Segmentation on ARMBench]([https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811](https://medium.com/@karteekmenda93/object-segmentation-on-armbench-31e7366d0af5))
+
+[Predicting Aspect Ratio and Problematic Features in Additive Manufacturing](https://medium.com/@karteekmenda93/ml-for-predicting-aspect-ratio-and-problematic-features-in-additive-manufacturing-4151931845ff)
+
+[XCT Analysis for Additive Manufacturing](https://medium.com/@karteekmenda93/xct-analysis-for-am-799d018e3dba)
+
 [Tic-tac-toe with MyCobot — Part 2](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811)
 
 [Tic-tac-toe with MyCobot — Part 1](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-1-71e9ab2f1432)
