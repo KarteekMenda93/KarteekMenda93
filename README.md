@@ -19,7 +19,7 @@ Proficiently orchestrated integration of advanced automotive technologies into a
 - 😄 Pronouns: He/Him
 - 🎮 Interested in playing video games
 - 🏎️ A Real Lover of LAMBORGHINI
-- 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB(Royal Challengers Bangalore) fan
+- 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB (Royal Challengers Bangalore) fan
 
 ## You can find my Resume [Here](https://drive.google.com/file/d/18zUqpPVzwY_Dq8TiGCXu4-cABPNJdV3y/view)
 
