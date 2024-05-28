@@ -41,6 +41,8 @@ Proficiently orchestrated integration of advanced automotive technologies into a
 
 [Predicting Aspect Ratio and Problematic Features in Additive Manufacturing](https://medium.com/@karteekmenda93/ml-for-predicting-aspect-ratio-and-problematic-features-in-additive-manufacturing-4151931845ff)
 
+[Porosity Detection in Thermal Melt Pool Images](https://medium.com/@karteekmenda93/porosity-detection-in-thermal-melt-pool-images-e83370acb971)
+
 [XCT Analysis for Additive Manufacturing](https://medium.com/@karteekmenda93/xct-analysis-for-am-799d018e3dba)
 
 [Tic-tac-toe with MyCobot — Part 2](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811)
