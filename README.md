@@ -5,7 +5,7 @@
 
 I am Robotics GRAD Student at ASU, Ex - Data Science Professional, and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables
 
-- 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers in India
+- 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems
 - 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, User Interface Development
 - 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Front End Development, and Hosting
