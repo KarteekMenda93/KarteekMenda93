@@ -7,7 +7,7 @@ I am Robotics GRAD Student at ASU, Ex - Data Science Professional, and a Machine
 
 - 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems
-- 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, User Interface Development
+- 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, CV, and User Interface Development
 - 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Front End Development, and Hosting
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
