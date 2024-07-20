@@ -27,7 +27,6 @@ I am Robotics GRAD Student at ASU, Ex - Data Science Professional, and a Machine
 <a href="https://medium.com/@karteekmenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karteekmenda93" height="30" width="40" /></a>
 <a href="https://github.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11484165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11484165" height="30" width="40" /></a>
-<a href="https://twitter.com/KarteekMenda93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@KarteekMenda93" height="30" width="40" /></a>
 <a href="https://karteekmenda93.github.io/DigitalPortfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KarteekMenda93" height="30" width="40" /></a>
 </p>
 
