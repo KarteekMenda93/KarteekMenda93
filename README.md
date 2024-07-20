@@ -18,8 +18,6 @@ I am Robotics GRAD Student at ASU, Ex - Data Science Professional, and a Machine
 - 🏎️ A Real Lover of LAMBORGHINI
 - 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB (Royal Challengers Bangalore) fan
 
-## You can find my Resume [Here](https://drive.google.com/file/d/18zUqpPVzwY_Dq8TiGCXu4-cABPNJdV3y/view)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
