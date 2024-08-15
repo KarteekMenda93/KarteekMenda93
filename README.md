@@ -8,15 +8,13 @@ I am Robotics GRAD Student at ASU, Ex - Data Science Professional, and a Machine
 - 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems
 - 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, CV, and User Interface Development
-- 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Front End Development, and Hosting
+- 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Computer Vision, Front End Development, and Hosting
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 - 📝 you can also have a look at my [Portfolio](https://karteekmenda93.github.io/DigitalPortfolio/)
 - 😄 Pronouns: He/Him
-- 🎮 Interested in playing video games
 - 🏎️ A Real Lover of LAMBORGHINI
-- 🏏 Always a VIRAT fan and a supporter of INDIAN Cricket Team and a loyal RCB (Royal Challengers Bangalore) fan
 
 
 <h3 align="left">Connect with me:</h3>
