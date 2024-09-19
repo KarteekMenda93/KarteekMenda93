@@ -11,7 +11,7 @@ I am a Robotics GRAD Student at ASU, Ex - Deputy Manager - Analytics, Data Scien
 - 💬 Ask me about Databases, Machine Learning, Time Series Forecasting, Deep Learning, NLP tasks, Computer Vision tasks, Front End Development
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
-- 📫 You can go through some of my slides on Transformers [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
+- 📫 You can go through some of my slides on Transformers [Longformers](https://transformer-longformer.streamlit.app/), [BERT](https://transformer-bert.streamlit.app/)
 - 📝 you can also have a look at my [Portfolio](https://karteekmenda93.github.io/DigitalPortfolio/)
 - 😄 Pronouns: He/Him
 - 🏎️ A Real Lover of LAMBORGHINI
