@@ -30,6 +30,8 @@ I am a Robotics GRAD Student at ASU, Ex - Deputy Manager - Analytics, Data Scien
 
 [Object Segmentation on ARMBench](https://medium.com/@karteekmenda93/object-segmentation-on-armbench-31e7366d0af5)
 
+[Decoding the Encoder, Decoder of Transformers](https://medium.com/@karteekmenda93/decoding-the-encoder-decoder-in-transformers-94d2fc98e6c7)
+
 [Predicting Aspect Ratio and Problematic Features in Additive Manufacturing](https://medium.com/@karteekmenda93/ml-for-predicting-aspect-ratio-and-problematic-features-in-additive-manufacturing-4151931845ff)
 
 [Porosity Detection in Thermal Melt Pool Images](https://medium.com/@karteekmenda93/porosity-detection-in-thermal-melt-pool-images-e83370acb971)
