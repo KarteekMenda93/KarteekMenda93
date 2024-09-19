@@ -14,7 +14,6 @@ I am a Robotics GRAD Student at ASU, Ex - Deputy Manager - Analytics, Data Scien
 - 📫 You can go through some of my slides on Transformers [Longformers](https://transformer-longformer.streamlit.app/), [BERT](https://transformer-bert.streamlit.app/)
 - 📝 you can also have a look at my [Portfolio](https://karteekmenda93.github.io/DigitalPortfolio/)
 - 😄 Pronouns: He/Him
-- 🏎️ A Real Lover of LAMBORGHINI
 
 
 <h3 align="left">Connect with me:</h3>
