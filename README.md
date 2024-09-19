@@ -6,9 +6,9 @@
 I am a Robotics GRAD Student at ASU, Ex - Deputy Manager - Analytics, Data Scientist, and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
 - 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products
-- 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems
+- 💳 Interested in knowing more about digital twins
 - 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, CV, and User Interface Development
-- 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Computer Vision, Front End Development, and Hosting
+- 💬 Ask me about Databases, Machine Learning, Time Series Forecasting, Deep Learning, NLP tasks, Computer Vision tasks, Front End Development
 - 📫 How to reach me: 
     [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda)
 - 📫 You can go through some of my slides on Transformers [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
