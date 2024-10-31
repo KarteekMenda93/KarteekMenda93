@@ -45,7 +45,7 @@ I am a Robotics GRAD Student at ASU, Ex - Deputy Manager - Analytics, Data Scien
 
 [Control the heater and filter the data for better performance](https://medium.com/@karteekmenda93/control-the-heater-and-filter-the-data-for-better-performance-c276b43e1b4b)
 
-[How does Google Maps predict the ETA with high precision?](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
+[How does Google Maps predict the ETA with high precision?](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-7e36a97d8859)
 
 [Part 1: Sentimental Analysis Using BERT](https://medium.com/@karteekmenda93/part-1-sentimental-analysis-using-bert-c030ca9b33b6)
 
