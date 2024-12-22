@@ -3,7 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm Karteek Menda</h1>
 
-I am a Robotics GRAD Student at ASU, Ex - Deputy Manager - Analytics, Data Scientist, and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
+Recent graduate in Robotics and Autonomous Systems from Arizona State University, with expertise spanning a wide range of AI technologies, including machine learning, deep learning, natural language processing (NLP), computer vision, and robotics systems.
+
+Former Deputy Manager - Analytics, Data Scientist, and Data Engineer, with a proven track record of developing data-intensive applications and solving complex architectural and scalability challenges. 
+
+Proficient in predictive modelling, data processing, and data mining algorithms, with extensive experience in big data frameworks and programming languages such as Python and C++. Skilled in leveraging advanced AI tools and platforms to design, develop, test, and deploy adaptive, high-performing solutions. Adept at transforming complex business and functional requirements into impactful, data-driven outcomes, with proven expertise in deploying scalable AI solutions on cloud platforms.
+
+Passionate about Artificial Intelligence and an active Machine Learning blogger, with in-depth knowledge of emerging technologies such as generative AI, autonomous systems, and explainable AI.
 
 - 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products
 - 💳 Interested in knowing more about digital twins
