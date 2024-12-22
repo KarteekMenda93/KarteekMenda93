@@ -32,6 +32,7 @@ Passionate about Artificial Intelligence and an active Machine Learning blogger,
 
 
 ### Blog posts
+[Educational Assistant System using RAG Framework](https://medium.com/@karteekmenda93/rag-b98862afc60f)
 
 [Object Segmentation on ARMBench](https://medium.com/@karteekmenda93/object-segmentation-on-armbench-31e7366d0af5)
 
